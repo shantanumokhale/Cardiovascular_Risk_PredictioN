@@ -63,10 +63,6 @@ Using SHAP (SHapley Additive exPlanations), we identified the most influential f
 - **Age**
 - **Pulse Pressure**
 
-### **Future Work:**
-- Explore other machine learning models and techniques to enhance performance.
-- Collaborate with medical experts to engineer additional features, which could further improve model accuracy.
-
 This comprehensive approach to CHD risk prediction demonstrates the potential for machine learning to significantly impact early disease detection and preventive healthcare.
 
 ---
