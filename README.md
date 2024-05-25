@@ -1,12 +1,15 @@
 # Cardiovascular Risk Prediction
 ---
 Introduction:
+
 Early prediction of coronary heart disease (CHD) is crucial for raising awareness and enabling preventive measures such as dietary changes and exercise. Detecting CHD early allows for timely treatment, potentially avoiding more invasive interventions.
 ---
 Problem Statement:
+
 The aim is to predict whether a patient is at risk of developing CHD within the next 10 years.
 ---
 Data Description:
+
 The dataset comprises over 4,000 records with 15 attributes, including demographic, behavioral, and medical factors.
 ---
 Demographic:
